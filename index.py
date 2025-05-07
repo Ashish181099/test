@@ -1,0 +1,3 @@
+import second
+
+second.hello()
